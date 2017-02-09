@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "978497302145",
+    "firebase_url": "https://progaming-playbento.firebaseio.com",
+    "project_id": "progaming-playbento",
+    "storage_bucket": "progaming-playbento.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978497302145:android:9e5494a67364b4a8",
+        "android_client_info": {
+          "package_name": "th.co.progaming.playbento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978497302145-shsosm266mea7bvej8j84bkofm4s3ho7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoRUUpNJE8E0SsRM3OqvIk5p69k2co7Wk"
+        },
+        {
+          "current_key": "AIzaSyBb_EXyLjFJMJnqzRMMocDv_7jN6gTOGds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

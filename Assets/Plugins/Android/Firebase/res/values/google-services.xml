@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://progaming-playbento.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">978497302145</string>
+  <string name="google_storage_bucket" translatable="false">progaming-playbento.appspot.com</string>
+  <string name="google_api_key" translatable="false">AIzaSyDoRUUpNJE8E0SsRM3OqvIk5p69k2co7Wk</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDoRUUpNJE8E0SsRM3OqvIk5p69k2co7Wk</string>
+  <string name="google_app_id" translatable="false">1:978497302145:android:9e5494a67364b4a8</string>
+  <string name="default_web_client_id" translatable="false">978497302145-shsosm266mea7bvej8j84bkofm4s3ho7.apps.googleusercontent.com</string>
+</resources>
